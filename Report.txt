@@ -1,0 +1,12 @@
+Product :1
+Id: 10
+Name: Ali Haider
+Price: 30000
+Date: 1/9/23
+Quantity: 2
+Product :2
+Id: 11
+Name: Javeria
+Price: 2000
+Date: 1/2/1
+Quantity: 
